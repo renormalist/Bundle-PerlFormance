@@ -1,0 +1,23 @@
+Bundle-PerlFormance
+===================
+
+This bundle installs a bunch of modules that belong to
+Benchmark::Perl::Formance. The main difference to the raw module
+Benchmark::Perl::Formance is that there it only "recommends" modules
+so it can be used flexibly for any subset of benchmarks whereas this
+bundle here "requires" most of the dependencies.
+
+INSTALLATION
+
+To install this module, type the following:
+
+   perl Build.PL
+   ./Build
+   ./Build test
+   ./Build install
+
+LICENCE
+
+This module is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
