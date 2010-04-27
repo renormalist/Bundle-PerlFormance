@@ -27,11 +27,12 @@ Bundle::PerlFormance - Bundle for all things needed by Benchmark::Perl::Formance
 
 =head1 Description
 
-This bundle installs a bunch of modules that belong to
-Benchmark::Perl::Formance. The main difference to the raw module
-Benchmark::Perl::Formance is that there it only B<recommends> modules
-so it can be used flexibly for any subset of benchmarks whereas this
-bundle here B<requires> most of the dependencies.
+This bundle defines a bunch of modules that belong to
+L<Benchmark::Perl::Formance|Benchmark::Perl::Formance>. The main
+difference to the raw module Benchmark::Perl::Formance is that there
+it only B<recommends> modules so it can be used flexibly for any
+subset of benchmarks whereas this bundle here B<requires> most of the
+dependencies.
 
 =head1 CONTENTS
 
@@ -56,9 +57,13 @@ Moose
 Mouse
 
 POSIX::Regex
+
 re::engine::Lua
+
 re::engine::LPEG
+
 re::engine::Plan9
+
 re::engine::Oniguruma
 
 Math::GMP
@@ -106,7 +111,7 @@ headers other than all uppercase.
 
 =end comment
 
-Steffen Schwigon, C<< <steffen.schwigon@amd.com> >>
+Steffen Schwigon, C<< <ss5@renormalist.net> >>
 
 =head1 License
 

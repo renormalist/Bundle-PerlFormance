@@ -1,7 +1,7 @@
 Bundle-PerlFormance
 ===================
 
-This bundle installs a bunch of modules that belong to
+This bundle defines a bunch of modules that belong to
 Benchmark::Perl::Formance. The main difference to the raw module
 Benchmark::Perl::Formance is that there it only "recommends" modules
 so it can be used flexibly for any subset of benchmarks whereas this
