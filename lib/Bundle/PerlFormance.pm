@@ -1,6 +1,6 @@
 package Bundle::PerlFormance;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -93,6 +93,12 @@ Declare::Constraints::Simple
 Crypt::Primes
 
 Math::Primality
+
+Text::Balanced
+
+YAML::XS
+
+Encode
 
 =head1 Author
 
