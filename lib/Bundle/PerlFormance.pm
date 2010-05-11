@@ -13,13 +13,13 @@ headers other than all uppercase.
 
 =head1 NAME
 
-Bundle::PerlFormance - Bundle for al things needed by Benchmark::Perl::Formance
+Bundle::PerlFormance - Bundle for all things needed by Benchmark::Perl::Formance
 
 =end comment
 
 =head1 Name
 
-Bundle::PerlFormance - Bundle for al things needed by Benchmark::Perl::Formance
+Bundle::PerlFormance - Bundle for all things needed by Benchmark::Perl::Formance
 
 =head1 Synopsis
 
@@ -99,6 +99,12 @@ Text::Balanced
 YAML::XS
 
 Encode
+
+Data::DPath
+
+Devel::Size
+
+Clone
 
 =head1 Author
 
