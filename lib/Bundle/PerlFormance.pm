@@ -1,6 +1,6 @@
 package Bundle::PerlFormance;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 1;
 
@@ -51,6 +51,8 @@ NetAddr::IP
 HTML::Parser
 
 Mail::SpamAssassin
+
+MooseX::Declare
 
 Moose
 
