@@ -1,6 +1,6 @@
 package Bundle::PerlFormance;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 1;
 
@@ -68,6 +68,8 @@ re::engine::Plan9
 
 re::engine::Oniguruma
 
+re::engine::RE2
+
 Math::GMP
 
 Test::Aggregate::Nested
@@ -107,6 +109,8 @@ Data::DPath
 Devel::Size
 
 Clone
+
+Perl::Critic
 
 =head1 Author
 
