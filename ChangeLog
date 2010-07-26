@@ -1,8 +1,18 @@
+2010-07-27  Steffen Schwigon  <ss5@renormalist.net>
+
+	* 0.04
+
+	* new dependencies:
+	  + re::engine::RE2
+	  + Perl::Critic
+
+
 2010-07-07  Steffen Schwigon  <ss5@renormalist.net>
 
 	* 0.03
 
-	* add MooseX::Declare
+	* new dependencies
+	  + MooseX::Declare
 
 2010-04-20  Steffen Schwigon  <ss5@renormalist.net>
 
