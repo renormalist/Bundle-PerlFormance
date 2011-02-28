@@ -72,8 +72,6 @@ re::engine::RE2
 
 Math::GMP
 
-Test::Aggregate::Nested
-
 DateTime::Calendar::Mayan
 
 Regexp::Common
