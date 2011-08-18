@@ -13,7 +13,7 @@ headers other than all uppercase.
 
 =head1 NAME
 
-Bundle::PerlFormance - Bundle for all things needed by Benchmark::Perl::Formance
+Bundle::PerlFormance - PerlFormance - Bundle for max dependencies
 
 =end comment
 
