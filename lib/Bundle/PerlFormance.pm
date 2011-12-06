@@ -60,6 +60,8 @@ Mouse
 
 POSIX::Regex
 
+ExtUtils::CppGuess
+
 re::engine::Lua
 
 re::engine::LPEG
