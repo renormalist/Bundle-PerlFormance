@@ -1,3 +1,19 @@
+2011-12-08  Steffen Schwigon  <ss5@renormalist.net>
+
+	* 0.05
+
+	* new dependencies for SpamAssassin and perlformance.net
+	  +Digest::SHA1
+	  +DB_File
+	  +Mail::SPF
+	  +Mail::DKIM
+	  +IP::Country
+	  +Net::Ident
+	  +IO::Socket::INET6
+	  +Encode::Detect
+	  +Benchmark::Perl::Formance
+	  +Tapper::TestSuite::Benchmark::Perl::Formance
+
 2010-07-27  Steffen Schwigon  <ss5@renormalist.net>
 
 	* 0.04
@@ -5,7 +21,6 @@
 	* new dependencies:
 	  + re::engine::RE2
 	  + Perl::Critic
-
 
 2010-07-07  Steffen Schwigon  <ss5@renormalist.net>
 
