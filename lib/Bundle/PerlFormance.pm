@@ -36,7 +36,25 @@ dependencies.
 
 =head1 CONTENTS
 
+Digest::SHA1
+
+DB_File
+
+Mail::SPF
+
+Mail::DKIM
+
+IP::Country
+
+Net::Ident
+
+IO::Socket::INET6
+
+Encode::Detect
+
 Benchmark::Perl::Formance
+
+Tapper::TestSuite::Benchmark::Perl::Formance
 
 forks
 
