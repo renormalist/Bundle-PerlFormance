@@ -2,7 +2,7 @@
 Build*
 !Build.PL
 META.yml
-MYMETA.yml
+MYMETA.*
 blib
 build
 inc
